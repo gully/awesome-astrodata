@@ -25,7 +25,9 @@ A curated list of data and tools for machine learning in astronomy
 - [A quick tour of machine learning and statistical tools](https://www.youtube.com/watch?v=aA3qdegi8Vw) David Hogg
 - [Dimensionality reduction](https://www.youtube.com/watch?v=CvBCmWc8iBE) David Hogg
 - [Model selection and cross validation](https://www.youtube.com/watch?v=uaztY3Lbr4A) David Hogg
-- [Information Theory]()
+- [Model comparison](https://www.youtube.com/watch?v=sm-yFQcaD4Q) Hogg, Marshal, Brewer
+- [Gaussian Mixture Models](https://www.youtube.com/watch?v=W0XECm4-3LI) Jake Vanderplas
+
 
 
 # Lecture notes
