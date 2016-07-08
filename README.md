@@ -17,7 +17,8 @@ A curated list of data and tools for machine learning in astronomy
 - [Statistics for Hackers](https://speakerdeck.com/jakevdp/statistics-for-hackers) Jake Vanderplas
 
 
-# Datasets
+# Jupyter Notebooks
+- [Supervised Machine Learning in Astronomy](https://github.com/AstroHackWeek/AstroHackWeek2014/tree/master/day4) Josh Bloom
 
 
 # Videos
@@ -29,6 +30,10 @@ A curated list of data and tools for machine learning in astronomy
 - [Gaussian Mixture Models](https://www.youtube.com/watch?v=W0XECm4-3LI) Jake Vanderplas
 
 
+# Examples of Probabilistic Graphical Models in Astronomy
+- [Celeste: Variational inference for a generative model of
+astronomical images](http://www.stat.berkeley.edu/~jeff/publications/regier2015celeste.pdf) Regier et al. 
+
 
 # Lecture notes
 - [Data analysis recipes: Fitting a model to data](https://arxiv.org/abs/1008.4686) Hogg, Bovy, Lang
@@ -38,3 +43,8 @@ A curated list of data and tools for machine learning in astronomy
 - [AstroHackWeek](http://astrohackweek.org/)
 - [.Astronomy](http://dotastronomy.com/)
 - [AAS Hack Day](http://www.astrobetter.com/wiki/AASHackDay)
+
+# Institutes
+- [NYU Center for Data Science](http://cds.nyu.edu/)
+- [UC Berkeley Institute for Data Science](https://bids.berkeley.edu/)
+- [UW eScience Institute](http://escience.washington.edu/)
