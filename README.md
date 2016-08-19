@@ -19,6 +19,14 @@ A curated list of data and tools for machine learning in astronomy
 
 # Jupyter Notebooks
 - [Supervised Machine Learning in Astronomy](https://github.com/AstroHackWeek/AstroHackWeek2014/tree/master/day4) Josh Bloom
+- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) Jake VanderPlas
+- [Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython) Jake VanderPlas
+- [Bayesian Astronomy](https://github.com/jakevdp/BayesianAstronomy) Jake VanderPlas
+- [Scikit-Learn Tutorial](https://github.com/jakevdp/sklearn_tutorial) Jake VanderPlas
+- [Python for Data Analysis](https://github.com/wesm/pydata-book) Wes McKinney
+- [Astro Hack Week 2014](https://github.com/AstroHackWeek/AstroHackWeek2014) Seattle
+- [Astro Hack Week 2015](https://github.com/AstroHackWeek/AstroHackWeek2015) NYC
+- [Astro Hack Week 2016](https://github.com/AstroHackWeek/AstroHackWeek2016) San Francisco
 
 
 # Videos
@@ -30,9 +38,11 @@ A curated list of data and tools for machine learning in astronomy
 - [Gaussian Mixture Models](https://www.youtube.com/watch?v=W0XECm4-3LI) Jake Vanderplas
 
 
+
 # Examples of Probabilistic Graphical Models in Astronomy
 - [Celeste: Variational inference for a generative model of
-astronomical images](http://www.stat.berkeley.edu/~jeff/publications/regier2015celeste.pdf) Regier et al. 
+astronomical images](http://www.stat.berkeley.edu/~jeff/publications/regier2015celeste.pdf) Regier et al.
+- [Constructing a Flexible Likelihood Function for Spectroscopic Inference](http://adsabs.harvard.edu/abs/2015ApJ...812..128C) Czekala et al.
 
 
 # Lecture notes
